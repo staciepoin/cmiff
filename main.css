@@ -75,11 +75,11 @@ header {
 /*SEARCH*/
 form {
 	float: right;
-	margin: 4px 0!important;
+	margin: 6px 0!important;
 }
 
 input[type="text"] {
-	padding: 8px;
+	padding: 6px;
 	border: 0;
 }
 
