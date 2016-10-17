@@ -136,7 +136,7 @@ input[type="submit"]:hover {
 .fa-facebook {
 	background-color: #3b5998;
 	padding: 8px;
-	width: 48px;
+	height: 48px;
 	font-size: 32px;
 	text-align: center;
 }
