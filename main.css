@@ -170,5 +170,5 @@ header {
 	background-color: #ffd700;
 	font-family: 'Oswald', sans-serif;
 	width: 50%!important;
-	float: right;
+	margin: 3% 0 0 50%!important;
 }
