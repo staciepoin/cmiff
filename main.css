@@ -148,7 +148,7 @@ header {
 	font-size: 12px;
 }
 
-#contact input[type="text"], #contact input[type="email"] {
+#contact input[type="text"], #contact input[type="email"], #contact textarea {
 	border: 0;
 	padding: 6px 8px;
 	width: 100%;
@@ -159,13 +159,7 @@ header {
 }
 
 #contact textarea {
-	width: 100%;
-	padding: 6px 8px;
-	margin: 3% 0;
-	border: 0;
 	resize: none;
-	font-family: inherit;
-	font-size: inherit;
 }
 
 #contact input:focus {
