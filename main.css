@@ -144,7 +144,7 @@ header {
 	padding: 12px;
 	margin: 0!important;
 	text-align: center;
-	font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif!important;
 }
 
 #contact input[type="text"], #contact input[type="email"] {
