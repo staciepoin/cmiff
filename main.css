@@ -171,4 +171,10 @@ header {
 	font-family: 'Oswald', sans-serif;
 	width: 50%!important;
 	margin: 1.5% 0 0 50%!important;
+	transition: 0.3s;
+}
+
+#contact input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: #ffeb7f;
 }
