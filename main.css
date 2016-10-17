@@ -77,7 +77,7 @@ header {
 
 .cmiff {
 	font-size: 40px;
-	font-family: 'Monoton', cursive;
+	font-family: 'Quicksand', sans-serif;
 	height: 38px;
 	display: block;
 }
@@ -162,4 +162,5 @@ header {
 	margin: 3% 0;
 	border: 0;
 	resize: none;
+	font-family: inherit;
 }
