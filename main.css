@@ -136,7 +136,6 @@ input[type="submit"]:hover {
 	font-size: 22.5px;
 	padding: 7.5px;
 	background-color: #848484;
-	width: 80%;
-	margin: 5% auto;
+	margin: 5% 0;
 	
 }
