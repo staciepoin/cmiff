@@ -131,6 +131,7 @@ input[type="submit"]:hover {
 .social {
 	border: 6px;
 	color: white;
+	display: inline;
 }
 
 .social .fa {
