@@ -131,11 +131,10 @@ input[type="submit"]:hover {
 #sidebar h3 {
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	text-shadow: 2px 1px 0 black;
 	text-align: center;
 	font-size: 22.5px;
 	padding: 7.5px;
 	background-color: #848484;
 	margin: 5% 0;
-	
+	letter-spacing: .5px;
 }
