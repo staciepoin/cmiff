@@ -97,6 +97,7 @@ input[type="submit"] {
 	background-size: 15px;
 	background-repeat: no-repeat;
 	background-position: center center;
+	transition: .3s;
 }
 
 input:focus {
