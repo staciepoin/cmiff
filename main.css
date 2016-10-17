@@ -130,7 +130,6 @@ input[type="submit"]:hover {
 /*SOCIAL*/
 .social {
 	border: 6px;
-	text-align: center;
 	color: white;
 }
 
@@ -139,4 +138,5 @@ input[type="submit"]:hover {
 	padding: 8px;
 	width: 48px;
 	font-size: 32px;
+	text-align: center;
 }
