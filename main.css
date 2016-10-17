@@ -162,6 +162,6 @@ header {
 	resize: none;
 }
 
-#contact input:focus {
+#contact input:focus, textarea:focus {
 	outline: 0;
 }
