@@ -67,7 +67,7 @@ header {
 
 .cmiff {
 	font-size: 40px;
-	font-family: 'Monoton', cursive;
+p	font-family: 'Monoton', cursive;
 	height: 38px;
 	display: block;
 }
@@ -107,4 +107,18 @@ input:focus {
 input[type="submit"]:hover {
 	background-image: url(/cmiff/images/search-icon-black.png);
 	cursor: pointer;
+}
+
+/*SIDEBAR*/
+#sidebar {
+	padding-right: 12.5%;
+	background: red;
+	height: 100%;
+	display: block;
+}
+
+/*SOCIAL*/
+.social {
+	padding: 8px 12px;
+	border: 6px;
 }
