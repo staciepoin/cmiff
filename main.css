@@ -87,16 +87,18 @@ input[type="text"] {
 	border: 0;
 	margin-right: -4px;
 	width: 80%;
+	border-radius: 5px 0 0 5px;
 }
 
 input[type="submit"] {
-    border: 0;
-    background-color: #ffd700;
-    width: 10%;
-    background-image: url(/cmiff/images/search-icon.png);
-    background-size: 15px;
-    background-repeat: no-repeat;
-    background-position: center center;
+	border: 0;
+	background-color: #ffd700;
+	width: 10%;
+	background-image: url(/cmiff/images/search-icon.png);
+	background-size: 15px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 0 5px 5px 0;
 }
 
 input:focus {
