@@ -144,14 +144,16 @@ header {
 	padding: 12px;
 	margin: 0!important;
 	text-align: center;
-	font-family: Arial, sans-serif!important;
+	font-family: 'Quicksand', sans-serif!important;
+	font-size: 12px;
 }
 
 #contact input[type="text"], #contact input[type="email"] {
 	border: 0;
 	padding: 6px 8px;
 	width: 100%;
-	font-size: 12px;
+	font-size: inherit;
+	font-family: inherit;
 	border-radius: 1.5px;
 	margin: 3% 0;
 }
@@ -163,4 +165,5 @@ header {
 	border: 0;
 	resize: none;
 	font-family: inherit;
+	font-size: inherit;
 }
