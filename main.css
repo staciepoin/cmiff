@@ -75,7 +75,7 @@ header {
 /*SEARCH*/
 form {
 	float: right;
-	margin: 4px 0;
+	margin: 4px 0!important;
 }
 
 input[type="text"] {
