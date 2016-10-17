@@ -167,3 +167,7 @@ header {
 	font-family: inherit;
 	font-size: inherit;
 }
+
+#contact:focus {
+	outline: 0;
+}
