@@ -132,8 +132,8 @@ input[type="submit"]:hover {
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	text-align: center;
-	font-size: 22.5px;
-	padding: 7.5px;
+	font-size: 22px;
+	padding: 10px;
 	background-color: #848484;
 	margin: 5% 0;
 	letter-spacing: 1px;
