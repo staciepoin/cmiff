@@ -129,6 +129,14 @@ input[type="submit"]:hover {
 
 /*SOCIAL*/
 .social {
-	padding: 8px 12px;
 	border: 6px;
+	text-align: center;
+	color: white;
+}
+
+.fa-facebook {
+	background-color: #3b5998;
+	padding: 8px;
+	width: 48px;
+	font-size: 32px;
 }
