@@ -131,6 +131,7 @@ input[type="submit"]:hover {
 #sidebar h3 {
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	text-shadow: 2px 2px 0 0 black;
+	text-shadow: 2px 1px 0 black;
 	text-align: center;
+	font-size: 20px;
 }
