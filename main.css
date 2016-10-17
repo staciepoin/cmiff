@@ -85,11 +85,14 @@ input {
 
 input[type="text"] {
 	border: 0;
+	margin-right: -4px;
+	width: 80%;
 }
 
 input[type="submit"] {
 	border: 0;
 	background-color: #ffd700;
+	width: 20%;
 }
 
 input:focus {
