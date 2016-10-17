@@ -133,10 +133,16 @@ input[type="submit"]:hover {
 	color: white;
 }
 
-.fa-facebook, .fa-twitter {
-	background-color: #3b5998;
+.social fa {
 	padding: 8px;
 	width: 48px;
 	font-size: 32px!important;
 	text-align: center;
 }
+
+.social .fa-facebook {
+	background-color: #3b5998;
+}
+
+.social .fa-twitter {
+	background-color: #00aced;
