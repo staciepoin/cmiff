@@ -133,7 +133,7 @@ input[type="submit"]:hover {
 	color: white;
 }
 
-.fa-facebook {
+.fa-facebook, .fa-twitter {
 	background-color: #3b5998;
 	padding: 8px;
 	width: 48px;
