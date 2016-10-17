@@ -168,6 +168,6 @@ header {
 	font-size: inherit;
 }
 
-#contact:focus {
+#contact input:focus {
 	outline: 0;
 }
