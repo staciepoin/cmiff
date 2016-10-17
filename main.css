@@ -79,10 +79,17 @@ form {
 	width: 25%;
 }
 
-input[type="text"] {
+input {
 	padding: 6px;
+}
+
+input[type="text"] {
 	border: 0;
-	width: 100%;
+}
+
+input[type="submit"] {
+	border: 0;
+	background-color: #ffd700;
 }
 
 input:focus {
