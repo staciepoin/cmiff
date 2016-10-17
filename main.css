@@ -76,11 +76,13 @@ header {
 form {
 	float: right;
 	margin: 6px 0!important;
+	width: 25%;
 }
 
 input[type="text"] {
 	padding: 6px;
 	border: 0;
+	width: 100%;
 }
 
 input:focus {
