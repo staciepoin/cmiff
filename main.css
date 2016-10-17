@@ -135,10 +135,12 @@ input[type="submit"]:hover {
 	font-size: 22px;
 	padding: 10px;
 	background-color: #848484;
-	margin: 5% 0;
+	margin: 5% 0 0;
 	letter-spacing: 1px;
 }
 
 #contact {
 	background-color: #555;
+	width: 100%;
+	padding: 5px;
 }
