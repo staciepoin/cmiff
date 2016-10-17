@@ -146,7 +146,7 @@ header {
 	text-align: center;
 }
 
-#contact input[type="text"] {
+#contact input[type="text"], #contact input[type="email"] {
 	border: 0;
 	padding: 6px 8px;
 	width: 100%;
