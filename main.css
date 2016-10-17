@@ -104,6 +104,6 @@ input:focus {
 }
 
 input[type="submit"]:hover {
-	color: black;
+	background-image: url(/cmiff/images/search-icon-black.png);
 	cursor: pointer;
 }
