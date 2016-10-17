@@ -127,14 +127,3 @@ input[type="submit"]:hover {
 	width: 25%;
 	float: right;
 }
-
-/*COUNTDOWN*/
-#countdown {
-  text-align: center;
-  color: white;
-  font-family: "Oswald";
-  font-weight: 700;
-  font-size: 16px;
-  background-color: black;
-  width: 75%;
-}
