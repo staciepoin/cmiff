@@ -169,4 +169,5 @@ header {
 #contact input[type="submit"] {
 	background-color: #ffd700;
 	font-family: 'Oswald', sans-serif;
+	width: 50%!important;
 }
