@@ -133,7 +133,7 @@ input[type="submit"]:hover {
 	color: white;
 }
 
-.social fa {
+.social .fa {
 	padding: 8px;
 	width: 48px;
 	font-size: 32px!important;
