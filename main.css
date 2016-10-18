@@ -54,8 +54,8 @@ header {
 }
 
 #head {
-	width: 150px;
-	text-align: center;
+	width: 175px;
+	text-align: left;
 }
 
 #head a {
@@ -69,16 +69,17 @@ header {
 }
 
 .dates {
-	font-size: 14px;
+	font-size: 17px;
 	display: block;
 	font-family: 'Quicksand', sans-serif;
 	font-weight: 700;
+	text-align: center;
 }
 
 .cmiff {
-	font-size: 40px;
+	font-size: 50px;
 	font-family: 'Monoton', cursive;
-	height: 38px;
+	height: 48px;
 	display: block;
 }
 
