@@ -7,6 +7,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Monoton|Oswald|Quicksand" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/37b8f1c164.css">
 	<script src="https://use.fontawesome.com/31d36e61e0.js"></script>
+	<script src="countdown.js"></script>
 	<title>ABOUT</title>
 </head>
 
@@ -25,8 +26,7 @@
 	<li><a class="active" href="about.html">About</a></li>
 	<li><a href="films.html">Films</a></li>
 	<li><a href="contribute.html">Contribute</a></li>
-	<li><a href="contact.html">Contact</a></li>
-	<form autocomplete="off">
+	<form autocomplete="off" id="search">
   		<input type="text" name="search" placeholder="Search">
 		<input type="submit" value=" ">
 	</form>
@@ -34,7 +34,14 @@
 
 <div id="container">
 <div id="sidebar">
-	
+	<h3>CONTACT US</h3>
+	<form id="contact" action="mailto:someone@example.com" method="post" enctype="text/plain">
+		<input type="text" name="name" placeholder="Name*" required>
+		<input type="email" name="email" placeholder="Email*" required>
+		<input type="text" name="subject" placeholder="Subject*" required>
+		<textarea rows="8" placeholder="Message*" required></textarea>
+		<input type="submit" value="SEND">
+	</form>
 </div>
 </div>
 </body>
