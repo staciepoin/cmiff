@@ -1,0 +1,17 @@
+#films {
+  display: block;
+  margin-right: 20%;
+  padding: 1%;
+  text-align: center;
+}
+
+#films img {
+  display: inline-block;
+  margin-right: 1%;
+  transition: .3s linear;
+}
+
+#films img:hover {
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+  cursor: pointer;
+}
