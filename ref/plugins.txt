@@ -1,0 +1,12 @@
+"Look Inside" Book Preview with BookBlock
+http://tympanus.net/codrops/2014/01/14/look-inside-book-preview-with-bookblock/
+
+Thumbnail Grid with Expanding Preview
+http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/
+
+Image List Expander
+http://www.jqueryscript.net/demo/Thumbnail-Grid-with-Expanding-Image-Preview-Using-jQuery/
+
+Product Quick View
+https://codyhouse.co/gem/css-product-quick-view/
+
